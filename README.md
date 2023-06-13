@@ -1,2 +1,1 @@
-# azure-openai-demo
-Azure OpenAI Demo
+https://github.com/commercial-software-engineering/HackGPT
